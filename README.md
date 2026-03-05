@@ -27,5 +27,5 @@ The dashboard provides insights into Netflix content using interactive visualiza
 ---
 ## Dashboard Preview
 
-![Dashboard Screenshot](Netflix_dashboard_png_1.png)
+[Dashboard Screenshot_Add] (Netflix_dashboard_png_1.png) ( Netflix_dashboard_png_2.png)
 
